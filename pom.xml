@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.cydeo</groupId>
-    <artifactId>pizzaApplication</artifactId>
+    <artifactId>pizzaCloud</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>pizzaApplication</name>
-    <description>pizzaApplication</description>
+    <name>pizzaCloud</name>
+    <description>pizzaCloud</description>
     <properties>
         <java.version>11</java.version>
     </properties>
